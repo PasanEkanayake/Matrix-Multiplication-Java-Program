@@ -5,6 +5,11 @@ public class MultiplyMatrices{
 	public static void main(String[] args){
 		
 		Scanner scan = new Scanner(System.in);
+                
+                System.out.println("\n ==================================");
+                System.out.println("  WELCOME TO THE MATRIX CALCULATOR");
+                System.out.println(" ==================================");
+                System.out.println("\n<< Let's Multiply Some Matrices >>\n");
 		
 		//Entering Number Of Rows and Columns In First Matrix
 		System.out.print("\nEnter The Number Of Rows in First Matrix   : ");
